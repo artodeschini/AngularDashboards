@@ -2,6 +2,8 @@
 
 Este projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli) version 15.2.3.
 
+Integrado com [Google Charts]('https://developers.google.com/chart') na verdade foi adicionado ao arquivo `index.html` a chamada da google chart, e com o uso de `declate` no compnente para integra-lo.
+
 ## requisitos
 
 * nvm
