@@ -8,6 +8,7 @@ Este projeto foi criado com [Angular CLI](https://github.com/angular/angular-cli
 * node
 * npm
 * npx
+* acesso a internet
 
 ```bash
  npx -p @angular/cli ng new dashboard
